@@ -1,0 +1,16 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.38
+psycopg[binary]==3.2.5
+pydantic==2.10.6
+pydantic-settings==2.7.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+python-multipart==0.0.20
+feedparser==6.0.11
+httpx==0.28.1
+scikit-learn==1.6.1
+numpy==2.2.2
+networkx==3.4.2
+email-validator==2.2.0
